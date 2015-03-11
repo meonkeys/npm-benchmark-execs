@@ -33,6 +33,11 @@ to run and is twice as fast as `sleep two seconds`. Example output:
 * [unix.stackexchange.com post](http://unix.stackexchange.com/questions/22615/how-can-i-get-my-external-ip-address-in-bash/81699#81699)
   (inspiration for this code)
 
+# Mirrors
+
+* [GitLab](https://gitlab.com/meonkeys/npm-benchmark-execs)
+* [GitHub](https://github.com/meonkeys/npm-benchmark-execs)
+
 # Copyright, License
 
 Copyright (C)2015 Adam Monsen.
